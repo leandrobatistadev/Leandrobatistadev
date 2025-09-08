@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre Mim  
 ✨ Transformando **ideias em soluções digitais** usando **HTML | CSS | JavaScript**  
-📚 Sempre aprendendo algo novo (atualmente me aprofundando em **React & GitHub Pro**)  
+📚 Sempre aprendendo algo novo (atualmente me aprofundando em **GitHub Pro**)  
 🌎 Acredito que a programação é a chave para **liberdade, impacto e crescimento**  
 
 ---
@@ -19,7 +19,7 @@
 
 ✅ **Front-End:** HTML5 | CSS3 | JavaScript  
 ✅ **Versionamento:** Git & GitHub  
-✅ **Outros:** Responsividade | Flexbox | Grid | UX/UI Básico  
+✅ **Outros:** Responsividade | Flexbox | Grid
 
 ---
 
